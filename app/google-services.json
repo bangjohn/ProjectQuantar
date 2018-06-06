@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "445842585086",
+    "firebase_url": "https://projectquantar.firebaseio.com",
+    "project_id": "projectquantar",
+    "storage_bucket": "projectquantar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445842585086:android:3d6873b0ce37e4d0",
+        "android_client_info": {
+          "package_name": "id.quantar.projectquantar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445842585086-q331arbcpdbnqs6k99kk25u3abco001s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.quantar.projectquantar",
+            "certificate_hash": "3c36c9ba63aa2399e6e54c9c198e1784c765e5bf"
+          }
+        },
+        {
+          "client_id": "445842585086-a94oii3dl8f1odgaom1g0tfldhnjrhp8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "445842585086-a94oii3dl8f1odgaom1g0tfldhnjrhp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzUCBMipdj7OfKKPRy5pdnAbtEsjEH44I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445842585086-a94oii3dl8f1odgaom1g0tfldhnjrhp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
